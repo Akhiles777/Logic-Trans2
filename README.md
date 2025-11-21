@@ -1,1 +1,1 @@
-# Logic-Trans2
+# LogicTrans
